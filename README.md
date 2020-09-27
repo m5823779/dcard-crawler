@@ -1,5 +1,5 @@
 # Dcard Crawler
-This repository contains code to craw article on Dcard automatically.
+(Python class) This repository contains code to craw article on Dcard automatically.
 
 ### Setup 
 
